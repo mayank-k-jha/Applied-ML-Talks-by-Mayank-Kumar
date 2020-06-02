@@ -10,4 +10,5 @@ NLP or is a beginner in NLP. We will be looking at both the problem formulation 
 as the python implementation of one of the solutions.
 
 Recorded video of the session: https://www.youtube.com/watch?v=0l70K5c5NkM
+
 For more details on events: https://rait.acm.org/
