@@ -8,3 +8,5 @@ approaches ranging from classical NLP methods to some of the best current state 
 art approaches like BERT. I hope it will be useful for someone who is just starting with 
 NLP or is a beginner in NLP. We will be looking at both the problem formulation as well 
 as the python implementation of one of the solutions.
+
+For more details on events: https://rait.acm.org/
