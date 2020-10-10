@@ -10,7 +10,5 @@ Recorded video of the session: https://youtu.be/Cut8ixShBvE
 
 
 
-Follow me for more updates on upcoming videos and series:
-Github: https://github.com/mayank-k-jha
-LinkedIn : https://www.linkedin.com/in/mayank-k-jha
-Twitter: https://twitter.com/mayank_k_jha
+- LinkedIn : https://www.linkedin.com/in/mayank-k-jha
+- Twitter: https://twitter.com/mayank_k_jha

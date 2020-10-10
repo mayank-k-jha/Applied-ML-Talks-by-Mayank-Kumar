@@ -8,5 +8,5 @@ access to slides and presentation deck as well as codes and other shared resourc
 Link to my Youtube Channel: https://www.youtube.com/channel/UCadfh94w1Y7dA0_T-BwZ5cw
 
 
-LinkedIn : https://www.linkedin.com/in/mayank-k-jha
-Twitter: https://twitter.com/mayank_k_jha
+- LinkedIn : https://www.linkedin.com/in/mayank-k-jha
+- Twitter: https://twitter.com/mayank_k_jha
